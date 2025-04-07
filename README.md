@@ -1,8 +1,44 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hello welcome! 💻📱
+> Olá Seja bem vindo(a)
 
-Currently, two official plugins are available:
+*This is the repository intended for learning and Evolution in React Development:
+Below you will find an explanation of the folders.* 
+>####  esse é o repositório destinado para o aprendizado e Evolução no Desenvolvimento em React : abaixo terá uma explicação das pastas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Tools and Languages ​​used:
+>#### Ferramentas e Linguagens usadas
+<hr>
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-0000FF?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![JavaScritp](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+
+> [!IMPORTANT]
+> **The tools do not need to be the same to execute projects and studies.** <br>
+> As ferramentas não precisam ser as mesmas para executar os projetos e estudos
+
+
+# Folder Organization 🗂
+### 🗂Repository Folder (Development-React)<br/>
+>#### 📂Project folder<br/>                                          
+                                        
+
+<br>
+<br>
+<hr>
+
+> [!WARNING]
+> #### All text and words during projects and files will be in Brazilian Portuguese *As it is my native language* .
+> #### *Todos os texto e palavras durante os projetos e arquivos estárão no idioma Português Brasileiro pois é minha lingua nativa*
+
+___
+#### All files and projects are authored by Eric Fortes da Costa. For further contact, follow the Contact channel:<br>
+<div> 
+<a href="https://www.instagram.com/ericfortesdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:ericcostaf.w@gmail.com?subject=&body="> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ericcostaw/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://portifolioericcosta.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-39457E?logo=git&logoColor=white&style=for-the-badge"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
